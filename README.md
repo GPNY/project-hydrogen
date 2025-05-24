@@ -14,8 +14,8 @@ Open source & free script hub
 ## Supported games:
 | Game Name  | Status |
 | ------------- | ------------- |
-| Car Driving Simulator  | In Progress  |
-| Prison Life  | Not started  |
+| [Car Driving Simulator](https://www.roblox.com/games/1137431029)  | In Progress  |
+| [Prison Life](https://www.roblox.com/games/155615604)  | Not started  |
 
 ## Supported executors:
 | Executor Name  | Tested | Works |
