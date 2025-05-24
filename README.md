@@ -20,4 +20,4 @@ Open source & free script hub
 ## Supported executors:
 | Executor Name  | Tested | Works |
 | ------------- | ------------- | ------------- |
-| Solara  | ✅  | ✅ |
+| [Solara](https://getsolara.dev/)  | ✅  | ✅ |
